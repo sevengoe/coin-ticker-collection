@@ -1,2 +1,2 @@
 # coin-ticker-collection
-http
+http2
